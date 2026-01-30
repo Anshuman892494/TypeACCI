@@ -96,6 +96,26 @@ export default function Header() {
                                         Lessons
                                     </Link>
                                 </li>
+                                <li>
+                                    <Link
+                                        to="/upcoming"
+                                        className="block font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-100 px-4 py-3 rounded-lg transition-all duration-300"
+                                        onClick={() => setIsMobileMenuOpen(false)}
+                                    >
+                                        <i className="fas fa-calendar-alt mr-3 text-blue-500"></i>
+                                        Upcoming
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link
+                                        to="/about"
+                                        className="block font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-100 px-4 py-3 rounded-lg transition-all duration-300"
+                                        onClick={() => setIsMobileMenuOpen(false)}
+                                    >
+                                        <i className="fas fa-user mr-3 text-blue-500"></i>
+                                        About
+                                    </Link>
+                                </li>
                             </ul>
                         </div>
                     )}

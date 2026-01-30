@@ -128,7 +128,7 @@ export default function About() {
                                 </div>
 
                                 <h3 className="text-xl font-bold text-blue-800 mb-1">Anshuman Varma</h3>
-                                <p className="text-blue-600 font-medium mb-3">TypeACCI</p>
+                                <p className="text-blue-600 font-medium mb-3">Developer</p>
                             </div>
 
                             {/* Add more profiles manually here */}
