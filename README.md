@@ -5,6 +5,12 @@ It helps beginners improve **typing speed**, **accuracy**, and **confidence** th
 
 ---
 
+## 📸 Screenshot
+
+![TypeACCI Screenshot](https://github.com/Anshuman892494/TypeACCI/blob/main/Screenshots/Screenshot%202026-02-02%20100741.png?raw=true)
+
+---
+
 ## 🌐 Live Demo
 https://type-acci.vercel.app/
 
